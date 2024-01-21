@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Musthafa</h1>
-<h3 align="center">i'm aspiring MERN stack developer at GUVI geek network private limited,keep practicing more on Web development</h3>
+<h3 align="center">i'm working as full stack developer at Naberly Technology Private Limited</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=musthafa1991&label=Profile%20views&color=0e75b6&style=flat" alt="musthafa1991" /> </p>
 
