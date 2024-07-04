@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohamed Musthafa</h1>
-<h3 align="center">i'm working as full stack developer at Naberly Technology Private Limited</h3>
+<h3 align="center">I worked as full stack developer at Naberly Technology Private Limited</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=musthafa1991&label=Profile%20views&color=0e75b6&style=flat" alt="musthafa1991" /> </p>
 
-- 🌱 I’m currently working as **Full Stack development**
+- 🌱 I’m currently looking for the oppertunity as **Full Stack/React/Node js developer**
 
 - 👯 I’m looking to collaborate on **MERN stack developers**
 
-- 🤝 I’m looking for help with **front-end design**
+- 🤝 I’m looking for help with **DSA and System Design**
 
 - 📫 How to reach me **musthafam39@gmail.com**
 
